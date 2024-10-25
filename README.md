@@ -32,7 +32,7 @@ En este proyecto, Java se utiliza para:
 
 1. Clona este repositorio.
     ```sh
-    git clone https://github.com/Nerug-Programador/juego-de-adivinacion.git
+    git clone https://github.com/Nerug-Programador/juego-de-adivinaci-n.git
     ```
 2. Navega al directorio del proyecto.
     ```sh
